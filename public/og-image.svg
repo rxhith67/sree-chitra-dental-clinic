@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="#F5FAFF"/>
+  <rect x="48" y="48" width="1104" height="534" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="954" cy="154" r="126" fill="#DCEEFF"/>
+  <circle cx="1016" cy="110" r="58" fill="#EFF7FF"/>
+  <rect x="96" y="108" width="210" height="46" rx="23" fill="#EAF4FF"/>
+  <text x="123" y="137" fill="#0F6FBB" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.8">NEYYATTINKARA</text>
+  <text x="96" y="240" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700">Sree Chitra</text>
+  <text x="96" y="320" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700">Dental Clinic</text>
+  <text x="96" y="392" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="30">Gentle, modern dental care for families and individuals</text>
+  <text x="96" y="434" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="30">in Vazhuthoor, Neyyattinkara, Kerala.</text>
+  <rect x="96" y="486" width="262" height="58" rx="29" fill="#0F6FBB"/>
+  <text x="145" y="523" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Book Appointment</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="107" y1="72" x2="1030" y2="571" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EDF6FF"/>
+    </linearGradient>
+  </defs>
+</svg>
