@@ -1,7 +1,7 @@
 export const clinicData = {
   name: "Sree Chitra Dental Clinic",
   tagline: "Healthy smiles with gentle and modern dental care",
-  siteUrl: "https://sreechitradentalclinic.com",
+  siteUrl: "https://sree-chitra-dental-clinic.vercel.app",
   location: "Vazhuthoor, Neyyattinkara, Kerala, India",
   phone: "+91 7736995485",
   email: "johaanpauljoe@gmail.com",

@@ -327,8 +327,7 @@ export default function BookingForm({ className = "" }: BookingFormProps) {
         </button>
 
         <p className="text-sm leading-6 text-slate-500">
-          Booking enquiries are sent to {clinicData.bookingEmail}. The WhatsApp
-          contact options on this site are separate manual contact shortcuts.
+          Our team will review your enquiry and get back to you shortly.
         </p>
       </div>
     </form>
